@@ -19,4 +19,4 @@ public class member{
 [naver](https://www.naver.com)
 
 
-[test소스](/test/Test.java)
+[test소스](./src/test/Test.java)
